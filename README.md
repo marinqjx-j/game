@@ -1,3 +1,4 @@
-# game
+import pygame
+import sys
 
-Test
+pygame.init
